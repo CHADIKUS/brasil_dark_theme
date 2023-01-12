@@ -1,0 +1,22 @@
+{
+  "name": "brasil-dark-theme",
+  "displayName": "Brasil dark theme",
+  "description": "Brasil has reached VS code",
+  "version": "1.0.0",
+  "publisher": "chadicus",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brasil dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Brasil dark theme-color-theme.json"
+      }
+    ]
+  }
+}
